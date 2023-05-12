@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/components-n-props/static/css/main.775a4858.css",
+    "main.js": "/components-n-props/static/js/main.1c2850aa.js",
+    "index.html": "/components-n-props/index.html",
+    "main.775a4858.css.map": "/components-n-props/static/css/main.775a4858.css.map",
+    "main.1c2850aa.js.map": "/components-n-props/static/js/main.1c2850aa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.775a4858.css",
+    "static/js/main.1c2850aa.js"
+  ]
+}
